@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Al-Mahmud-2019331048
 - 👀 I’m interested in travelling.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java Programming Language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Mahmud](https://www.facebook.com/bmabdulla.mahmud)
 
 <!---
 Al-Mahmud-2019331048/Al-Mahmud-2019331048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
