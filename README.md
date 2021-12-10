@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Al-Mahmud-2019331048
 - 👀 I’m interested in travelling.
 - 🌱 I’m currently learning Java Programming Language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on [in](https://www.linkedin.com/in/bm-abdulla-al-mahmud-157170226) and [Github](https://github.com/Al-Mahmud-2019331048)
 - 📫 How to reach me [Mahmud](https://www.facebook.com/bmabdulla.mahmud)
 
 <!---
